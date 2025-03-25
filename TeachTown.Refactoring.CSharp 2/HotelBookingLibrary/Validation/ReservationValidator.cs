@@ -38,11 +38,6 @@ namespace HotelReservationLibrary.Validation
                 : ValidationResult.Success();
         }
 
-        //public ValidationResult Validate(Reservation reservation)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
         ValidationResult IReservationValidator.Validate(Reservation reservation)
         {
             throw new NotImplementedException();
