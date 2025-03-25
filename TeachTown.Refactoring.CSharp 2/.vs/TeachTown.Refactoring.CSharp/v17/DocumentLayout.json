@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|d:\\ankitproj\\codetests-main\\codetests-main\\dotnet\\teachtown.refactoring.csharp\\hotelbookinglibrary\\externalweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|solutionrelative:hotelbookinglibrary\\externalweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|d:\\ankitproj\\codetests-main\\codetests-main\\dotnet\\teachtown.refactoring.csharp\\hotelbookinglibrary\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|solutionrelative:hotelbookinglibrary\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|d:\\ankitproj\\codetests-main\\codetests-main\\dotnet\\teachtown.refactoring.csharp\\hotelbookinglibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|solutionrelative:hotelbookinglibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|d:\\ankitproj\\codetests-main\\codetests-main\\dotnet\\teachtown.refactoring.csharp\\hotelbookinglibrary\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|solutionrelative:hotelbookinglibrary\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|d:\\ankitproj\\codetests-main\\codetests-main\\dotnet\\teachtown.refactoring.csharp\\hotelbookinglibrary\\reservationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33077B6-9674-4321-97F9-E7F5D3FAC36A}|HotelBookingLibrary\\HotelReservationLibrary.csproj|solutionrelative:hotelbookinglibrary\\reservationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3928C31-FCDC-4631-A97D-249F4B2AF414}|HotelBookingClient\\HotelReservationClient.csproj|d:\\ankitproj\\codetests-main\\codetests-main\\dotnet\\teachtown.refactoring.csharp\\hotelbookingclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3928C31-FCDC-4631-A97D-249F4B2AF414}|HotelBookingClient\\HotelReservationClient.csproj|solutionrelative:hotelbookingclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExternalWeatherService.cs",
+              "DocumentMoniker": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\ExternalWeatherService.cs",
+              "RelativeDocumentMoniker": "HotelBookingLibrary\\ExternalWeatherService.cs",
+              "ToolTip": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\ExternalWeatherService.cs",
+              "RelativeToolTip": "HotelBookingLibrary\\ExternalWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:14:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "HotelBookingLibrary\\IWeatherService.cs",
+              "ToolTip": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\IWeatherService.cs",
+              "RelativeToolTip": "HotelBookingLibrary\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:13:35.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingClient\\Program.cs",
+              "RelativeDocumentMoniker": "HotelBookingClient\\Program.cs",
+              "ToolTip": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingClient\\Program.cs",
+              "RelativeToolTip": "HotelBookingClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:09:09.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelBookingLibrary\\Reservation.cs",
+              "ToolTip": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\Reservation.cs",
+              "RelativeToolTip": "HotelBookingLibrary\\Reservation.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:08:36.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationDb.cs",
+              "DocumentMoniker": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\ReservationDb.cs",
+              "RelativeDocumentMoniker": "HotelBookingLibrary\\ReservationDb.cs",
+              "ToolTip": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\ReservationDb.cs",
+              "RelativeToolTip": "HotelBookingLibrary\\ReservationDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:08:28.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\Enums.cs",
+              "RelativeDocumentMoniker": "HotelBookingLibrary\\Enums.cs",
+              "ToolTip": "D:\\AnkitProj\\CodeTests-main\\CodeTests-main\\dotnet\\TeachTown.Refactoring.CSharp\\HotelBookingLibrary\\Enums.cs",
+              "RelativeToolTip": "HotelBookingLibrary\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:03:50.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

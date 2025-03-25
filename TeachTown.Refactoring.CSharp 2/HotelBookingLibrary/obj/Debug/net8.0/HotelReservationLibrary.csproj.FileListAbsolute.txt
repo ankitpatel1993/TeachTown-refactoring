@@ -1,0 +1,12 @@
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\bin\Debug\net8.0\HotelReservationLibrary.deps.json
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\bin\Debug\net8.0\HotelReservationLibrary.dll
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\bin\Debug\net8.0\HotelReservationLibrary.pdb
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\obj\Debug\net8.0\HotelReservationLibrary.csproj.AssemblyReference.cache
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\obj\Debug\net8.0\HotelReservationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\obj\Debug\net8.0\HotelReservationLibrary.AssemblyInfoInputs.cache
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\obj\Debug\net8.0\HotelReservationLibrary.AssemblyInfo.cs
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\obj\Debug\net8.0\HotelReservationLibrary.csproj.CoreCompileInputs.cache
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\obj\Debug\net8.0\HotelReservationLibrary.dll
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\obj\Debug\net8.0\refint\HotelReservationLibrary.dll
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\obj\Debug\net8.0\HotelReservationLibrary.pdb
+D:\AnkitProj\CodeTests-main\CodeTests-main\dotnet\TeachTown.Refactoring.CSharp\HotelBookingLibrary\obj\Debug\net8.0\ref\HotelReservationLibrary.dll
